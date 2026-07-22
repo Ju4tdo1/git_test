@@ -8,6 +8,7 @@ complex_num = 1 + 2j
 print(complex_num)
 print(a/b)
 print('666 %s%s' % ('你','吃大粪去吧'))
+print('666 %s%s' % ('你你','吃大粪去吧'))
 
 s1 = 72
 s2 = 85
